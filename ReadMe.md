@@ -61,7 +61,4 @@
 
 <br clear="both">
 
-*/
- <img src="https://raw.githubusercontent.com/BurhanH12/BurhanH12/output/snake.svg" alt="Snake animation" />
-/*
 ###
