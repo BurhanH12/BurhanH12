@@ -49,7 +49,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Burhan.Js&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRtswLvXxgJlttJCgxQjnKKszBMcRGvjnPcfwzgDzGclxpHtGdRSvqBkDtNPvcktdmpxQPQ" target="_blank">
+  <a href="mailto:burhan.qsols@gmail.com?subject=Hey%20Let's%20Connect" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/burhan-halai-56a390164/" target="_blank">
